@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_Lyrics-App/static/css/main.1e84c2f5.css",
-    "main.js": "/react_Lyrics-App/static/js/main.8cf60f8f.js",
-    "static/js/453.094511aa.chunk.js": "/react_Lyrics-App/static/js/453.094511aa.chunk.js",
+    "main.css": "/react_Lyrics-App/static/css/main.49b81dca.css",
+    "main.js": "/react_Lyrics-App/static/js/main.19a183d9.js",
+    "static/js/317.0f4fff43.chunk.js": "/react_Lyrics-App/static/js/317.0f4fff43.chunk.js",
     "index.html": "/react_Lyrics-App/index.html",
-    "main.1e84c2f5.css.map": "/react_Lyrics-App/static/css/main.1e84c2f5.css.map",
-    "main.8cf60f8f.js.map": "/react_Lyrics-App/static/js/main.8cf60f8f.js.map",
-    "453.094511aa.chunk.js.map": "/react_Lyrics-App/static/js/453.094511aa.chunk.js.map"
+    "main.49b81dca.css.map": "/react_Lyrics-App/static/css/main.49b81dca.css.map",
+    "main.19a183d9.js.map": "/react_Lyrics-App/static/js/main.19a183d9.js.map",
+    "317.0f4fff43.chunk.js.map": "/react_Lyrics-App/static/js/317.0f4fff43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e84c2f5.css",
-    "static/js/main.8cf60f8f.js"
+    "static/css/main.49b81dca.css",
+    "static/js/main.19a183d9.js"
   ]
 }
