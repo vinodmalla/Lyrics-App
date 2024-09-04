@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_Lyrics-App/static/css/main.1e84c2f5.css",
+    "main.js": "/react_Lyrics-App/static/js/main.8cf60f8f.js",
+    "static/js/453.094511aa.chunk.js": "/react_Lyrics-App/static/js/453.094511aa.chunk.js",
+    "index.html": "/react_Lyrics-App/index.html",
+    "main.1e84c2f5.css.map": "/react_Lyrics-App/static/css/main.1e84c2f5.css.map",
+    "main.8cf60f8f.js.map": "/react_Lyrics-App/static/js/main.8cf60f8f.js.map",
+    "453.094511aa.chunk.js.map": "/react_Lyrics-App/static/js/453.094511aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e84c2f5.css",
+    "static/js/main.8cf60f8f.js"
+  ]
+}
